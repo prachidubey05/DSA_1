@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/prachidubey05/DSA_1/tree/master/0057-insert-interval) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prachidubey05/DSA_1/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
